@@ -1,10 +1,16 @@
 # Política Estadual de Informações em Saúde
 
-Temas principais:
+### Temas:
 - Segurança
 - Privacidade
 - Indicadores
 - Diretrizes e Padrões
+
+### Estruturas
+- Sistemas
+- Indicadores
+- Dados Abertos
+- Ontologia - Vocabulários / Taxonomias
 
 
 ## Sistema Estadual de Informações em Saúde
