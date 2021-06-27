@@ -21,4 +21,4 @@ O comitê será responsável por um programa de Transformação que vai ajudar a
 
 Caberá ao comitê "Elaborar e aprovar a Política Estadual de Gestão da Informacão, compreendendo a adequação à Política Nacional de Segurança da Informação, à Lei Geral de Proteção de Dados Pessoais e à Política Nacional de Informação e Informática em Saúde.
 
-- Acompanhe o [KabBan](https://github.com/orgs/SaudeCE/projects/12) da [Política Estadual de Gestão da Informacão](https://github.com/SaudeCE/ComiteDePoliticasDigitais/blob/master/PoliticaEstadualDeGestaoDaInformacao.md)
+- Acompanhe o [KanBan](https://github.com/orgs/SaudeCE/projects/12) da [Política Estadual de Gestão da Informacão](https://github.com/SaudeCE/ComiteDePoliticasDigitais/blob/master/PoliticaEstadualDeGestaoDaInformacao.md)
