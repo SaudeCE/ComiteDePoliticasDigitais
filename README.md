@@ -1,5 +1,5 @@
-# Comitê de Políticas Digitais
-Repositório para documentar o processo de elaboração, discussão e implementação do **Comitê Estadual de Políticas Digitais e Gestão da Informação** do Sistema Estaudla de Saúde do Ceará.
+# Comitê de Governança Digital
+Repositório para documentar o processo de elaboração, discussão e implementação do **Comitê Estadual de Governança Digital e Gestão da Informação** do Sistema Estaudla de Saúde do Ceará.
 
 
 ## Apresentação
@@ -9,7 +9,7 @@ Repositório para documentar o processo de elaboração, discussão e implementa
 
 
 ### Portaria
-Será editada [Portaria da Secretaria da Saúde](https://github.com/SaudeCE/ComiteDePoliticasDigitais/blob/master/PortariaDeCriacaoDoComite.md), criando um **Comitê de Políticas Digitais e Gestão da Informação**, responsável pela implementação de uma Política Digital para o Sistema de Saúde.
+Será editada [Portaria da Secretaria da Saúde](https://github.com/SaudeCE/ComiteDePoliticasDigitais/blob/master/PortariaDeCriacaoDoComite.md), criando um **Comitê de Governança Digital e Gestão da Informação**, responsável pela implementação de uma Política Digital para o Sistema de Saúde.
 
 - [Acompanhe](https://github.com/SaudeCE/ComiteDePoliticasDigitais/issues/2) a elaboração: http://bit.ly/PortariaCriacaoComiteDigital
 
