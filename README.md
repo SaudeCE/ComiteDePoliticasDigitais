@@ -3,7 +3,7 @@ Repositório para documentar o processo de elaboração, discussão e implementa
 
 
 ## Apresentação
-[Apresentação](bit.ly/PoliticasDigitaisNaSaude) dos conceitos e princípios que fundamentam a demanda pela criação de um Comitê responsável pela implementação de um **Programa de Transformação Digital** no Sistema de Saúde do Ceará.
+[Apresentação](https://docs.google.com/presentation/d/1uXRkOLOVS9bViAOExIhHZX_x03PaenLGqm-fBg8Ysr0/edit?usp=drivesdk) dos conceitos e princípios que fundamentam a demanda pela criação de um Comitê responsável pela implementação de um **Programa de Transformação Digital** no Sistema de Saúde do Ceará.
 
 - http://bit.ly/PoliticasDigitaisNaSaude
 
